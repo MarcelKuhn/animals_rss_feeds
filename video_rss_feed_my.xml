@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:media="http://search.yahoo.com/mrss/"
+xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+    <channel>
+        <title>Your Video RSS Feed Title - my</title>
+        <link>https://www.animalsaroundtheglobe.com</link>
+        <description>Generated from Google Sheets - Videos (my)</description>
+        <language>en-us</language>
+    <item>
+      <title><![CDATA[10 Of The Most Aggressive Animals Alive]]></title>
+      <link>https://www.dropbox.com/scl/fi/09fi4crehq1njb609uqng/10OfTheMostAggressiv-3.mp4?rlkey=muqkc8ncb8eh51injrpkmeka8&amp;st=j7br4hxk&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">21782020-9164-219f-7dae-d39b53ecbecf</guid>
+      <pubDate>Thu, 28 Nov 2024 10:35:00 GMT</pubDate>
+      <dc:creator><![CDATA[Soham Mahajan]]></dc:creator>
+      <description><![CDATA[Discover the raw power and ferocity of nature’s fiercest creatures as we explore 10 of the most aggressive animals alive, known for their unstoppable instincts and surprising attacks. Prepare to be amazed and cautious of the wild! #aggressiveanimals #wildlifemysteries #naturefierce #animalaggression #wildlife #animalbehavior #naturepower #fiercecreatures #wildlifeencounters #top10animals #naturefacts #animalfacts #wildlifephotography #fierceanimals #natureatitsbest #wildkingdom #animalworld #wildlifeusa #animalinstincts #wildlifeenthusiasts #naturelovers #wildlifelife #untamedwild #aggressivewildlife #animalsurvival #topanimalfacts #animalstories #wildanimalworld #wildlifeadventures #animaldominance #wildnature #predatorbehavior #wildlifewarriors #animalplanet #aggressivewild #top10wildlife #fierceanimals #wildlifefacts #naturelife]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/09fi4crehq1njb609uqng/10OfTheMostAggressiv-3.mp4?rlkey=muqkc8ncb8eh51injrpkmeka8&amp;st=j7br4hxk&amp;dl=1" medium="video">
+          <media:title><![CDATA[10 Of The Most Aggressive Animals Alive]]></media:title>
+          <media:description><![CDATA[Discover the raw power and ferocity of nature’s fiercest creatures as we explore 10 of the most aggressive animals alive, known for their unstoppable instincts and surprising attacks. Prepare to be amazed and cautious of the wild! #aggressiveanimals #wildlifemysteries #naturefierce #animalaggression #wildlife #animalbehavior #naturepower #fiercecreatures #wildlifeencounters #top10animals #naturefacts #animalfacts #wildlifephotography #fierceanimals #natureatitsbest #wildkingdom #animalworld #wildlifeusa #animalinstincts #wildlifeenthusiasts #naturelovers #wildlifelife #untamedwild #aggressivewildlife #animalsurvival #topanimalfacts #animalstories #wildanimalworld #wildlifeadventures #animaldominance #wildnature #predatorbehavior #wildlifewarriors #animalplanet #aggressivewild #top10wildlife #fierceanimals #wildlifefacts #naturelife]]></media:description>
+      </media:content>
+    </item>
+    <item>
+      <title><![CDATA[15 Shocking Moments When Komodo Dragons Took Down Other Animals]]></title>
+      <link>https://www.dropbox.com/scl/fi/33j2ct147kpngu7ilwt9k/15-Shocking-Moments-When-Komodo-Dragons-Took-Down-Other-Animals.mp4?rlkey=wvlv1hc2c038bu6sf8dzt7l90&amp;st=ty40c37b&amp;dl=1</link> <!-- Video URL als Link -->
+      <guid isPermaLink="false">d8ea094d-7a8d-1078-c929-29a20d8f8d6b</guid>
+      <pubDate>Thu, 28 Nov 2024 13:20:00 GMT</pubDate>
+      <dc:creator><![CDATA[Soham Mahajan]]></dc:creator>
+      <description><![CDATA[This captivating video showcases fifteen astonishing and shocking instances where Komodo dragons, the largest living lizards, overpower various animals. Viewers gain insight into the hunting techniques and behaviors of these formidable predators in their natural habitats. From unexpected ambushes on prey to rarely captured scenes, the video highlights the raw power and strategy of Komodo dragons.]]></description>
+      <media:content url="https://www.dropbox.com/scl/fi/33j2ct147kpngu7ilwt9k/15-Shocking-Moments-When-Komodo-Dragons-Took-Down-Other-Animals.mp4?rlkey=wvlv1hc2c038bu6sf8dzt7l90&amp;st=ty40c37b&amp;dl=1" medium="video">
+          <media:title><![CDATA[15 Shocking Moments When Komodo Dragons Took Down Other Animals]]></media:title>
+          <media:description><![CDATA[This captivating video showcases fifteen astonishing and shocking instances where Komodo dragons, the largest living lizards, overpower various animals. Viewers gain insight into the hunting techniques and behaviors of these formidable predators in their natural habitats. From unexpected ambushes on prey to rarely captured scenes, the video highlights the raw power and strategy of Komodo dragons.]]></media:description>
+      </media:content>
+    </item>
+    </channel>
+</rss>
